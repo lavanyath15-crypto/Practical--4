@@ -1,0 +1,13 @@
+{
+  "name": "campuscare-simple-validation",
+  "version": "1.0.0",
+  "description": "Simple Server-Side Validation Demo in NodeJS for TY Software Engineering",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
